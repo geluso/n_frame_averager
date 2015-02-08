@@ -1,4 +1,4 @@
-WIDTH = 2
+WIDTH = 20
 MAXX = 1560
 
 IN_DIR = "original_frames"
